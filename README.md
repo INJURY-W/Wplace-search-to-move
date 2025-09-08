@@ -1,2 +1,2 @@
-# Wplace-search-to-move
-Fed up with moving around step by step? Now, simply search for a location name and teleport there instantly!
+⚠️ Warning ⚠️
+This script is not originally created by me; it is only a version with added convenience features.
