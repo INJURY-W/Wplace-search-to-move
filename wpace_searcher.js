@@ -1,3 +1,5 @@
+// Based on the original script by https://greasyfork.org/en/scripts/545765-wplace-quick-search / whtepony
+// Modified by INJURY, 2025
 // ==UserScript==
 // @name         Wplace Quick Search (Button Trigger)
 // @namespace    http://tampermonkey.net/
@@ -181,3 +183,4 @@
     input.addEventListener("keydown", e => e.key === "Enter" && input.value.trim() && search(input.value.trim()));
     icon.addEventListener("click", () => input.value.trim() && search(input.value.trim()));
 })();
+
